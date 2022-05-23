@@ -2,7 +2,7 @@
 This is a repository of the assignments in my university's Neuroscience course (Spring 2022)
 
 ## HW1 
-Implementation of some models in python.
+Implementation of some models in python. <br>
 q1: **Hodgkin-Huxley model** <br>
 q2: **Izhikevich model** <br>
 q3: **LIF noisy output model** <br>
@@ -10,7 +10,7 @@ q4: **Integrate and Fire Models** <br>
 q5: **Bifurcations** <br>
 q6: **Phase plane** <br>
 q7: **Statistical tests: T-test, P-value, Z-test, F-test** <br>
-<br>
+
 ## HW2
 q2: **Synapses On Integrate-and-Fire Neurons** <br>
 q3: **PCA (principle components analysis)** <br>
