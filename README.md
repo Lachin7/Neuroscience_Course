@@ -19,3 +19,9 @@ q4: **K-means**
 ## HW3
 q1: **Implementation of two layer neural network on HAND DIGIT problem (recgonize the handwritten digits)** <br>
 q2: **Reinforcement Learning - Conditioning Paradigms** <br>
+
+## HW4
+q1: **Implementation of Hopfield Network**
+q2: **Raster Plot and PETH**
+q3: **Spike Triggered Average**
+q4: **Linear Perceptron**
