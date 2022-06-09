@@ -21,7 +21,7 @@ q1: **Implementation of two layer neural network on HAND DIGIT problem (recgoniz
 q2: **Reinforcement Learning - Conditioning Paradigms** <br>
 
 ## HW4
-q1: **Implementation of Hopfield Network**
-q2: **Raster Plot and PETH**
-q3: **Spike Triggered Average**
-q4: **Linear Perceptron**
+q1: **Implementation of Hopfield Network** <br>
+q2: **Raster Plot and PETH**<br>
+q3: **Spike Triggered Average**<br>
+q4: **Linear Perceptron**<br>
